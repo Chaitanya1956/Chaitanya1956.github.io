@@ -1,0 +1,2 @@
+Put your custom icon files (e.g., figma.svg, photoshop.svg, etc.) in this folder.
+You can use .svg, .png, or .jpg files. Make sure their filenames match the ones specified in index.html!
